@@ -11,7 +11,8 @@
 
 when opening deploying the github url it should appear like this (although ive set view to 50% to give a wider field of view)
 
-    ![image](https://github.com/ianhara/codeRefactor/assets/157930665/b1d97caa-56e7-4a77-ae3d-61daeacc735e)
+    ![preview](https://github.com/ianhara/codeRefactor/assets/157930665/7f39d6d8-f750-4875-983d-58258cda64d8)
+
 
 
 
