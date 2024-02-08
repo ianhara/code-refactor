@@ -1,4 +1,4 @@
-# <codeRefactor>
+# <code-refactor>
 
 ## Description
 
@@ -16,7 +16,7 @@
 ## Usage
 when opening deploying the github url it should appear like this (although ive set view to 50% to give a wider field of view)
   
-    !["horiseon"](assets/images/screenshot.png)
+    !["alt"](./assets/images/screenshot.png)
   
 P
 
