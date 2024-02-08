@@ -11,7 +11,7 @@
 
 when opening deploying the github url it should appear like this (although ive set view to 50% to give a wider field of view)
 
-    ![preview](preview.png)
+    ![preview](/assets/images/preview.png)
 
 
 
