@@ -11,7 +11,7 @@
 <br>
 when opening deploying the github url it should appear like this (although ive set view to 50% to give a wider field of view)
 <p>
-    ![alt text](assets/images/preview.png))
+    ![alt text](assets/images/preview.png)
 </p>
 
 
