@@ -18,4 +18,4 @@ when opening deploying the github url it should appear like this (although ive s
 
 ## Credits
 
-edx bootcamp
+edx bootcamp - supplied starter code used in html and css document 
