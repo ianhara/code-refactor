@@ -8,10 +8,10 @@
 - throughout this project I gained a better understanding of git and css
 
 ## Usage
-
+<br>
 when opening deploying the github url it should appear like this (although ive set view to 50% to give a wider field of view)
 <p>
-    ![preview](/assets/images/preview.png)
+    ![alt text](assets/images/preview.png))
 </p>
 
 
